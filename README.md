@@ -1,10 +1,10 @@
-# 🎙️ Ses İşareti Analizi ve Cinsiyet Sınıflandırma
+## Ses İşareti Analizi ve Cinsiyet Sınıflandırma
 ## Audio Signal Analysis & Gender Classification
 ### 2025-2026 Bahar Dönemi — Dönemiçi Proje
 
 ---
 
-## 📁 Proje Dosya Yapısı / Project Structure
+## Proje Dosya Yapısı / Project Structure
 
 ```
 AudioGenderClassifier/
