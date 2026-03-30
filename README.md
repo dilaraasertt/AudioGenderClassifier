@@ -44,7 +44,7 @@ AudioGenderClassifier/
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma / Setup & Run
+## Kurulum ve Çalıştırma / Setup & Run
 
 ### Gereksinimler / Requirements
 ```bash
@@ -89,7 +89,7 @@ jupyter notebook notebooks/AudioAnalysis_Pipeline.ipynb
 
 ---
 
-## 📊 Kullanılan Yöntemler / Methods
+## Kullanılan Yöntemler / Methods
 
 ### Pencereleme (Windowing)
 - **Çerçeve süresi:** 25 ms (durağanlık varsayımı için)
@@ -114,7 +114,7 @@ F0 = sr / τ_peak
 
 ---
 
-## 🎯 F0 Eşik Değerleri / Thresholds
+## F0 Eşik Değerleri / Thresholds
 
 | Sınıf | F0 Aralığı | Literatür Referansı |
 |-------|-----------|---------------------|
