@@ -124,7 +124,7 @@ F0 = sr / τ_peak
 
 ---
 
-## 📚 Referanslar / References
+##  Referanslar / References
 
 1. Titze, I.R. (1994). *Principles of Voice Production*. Prentice Hall.
 2. Hollien, H. & Shipp, T. (1972). *Speaking fundamental frequency and chronological age in males*. JSHR.
